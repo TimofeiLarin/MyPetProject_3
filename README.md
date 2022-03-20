@@ -1,3 +1,10 @@
+# MyPetProject_3
+## **Stack:**
+- ReactJS + Hooks
+- Redux
+- Redux Thunks
+- React Loader Spiner
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
